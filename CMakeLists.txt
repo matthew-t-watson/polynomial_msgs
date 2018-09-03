@@ -49,6 +49,10 @@ find_package(catkin REQUIRED COMPONENTS roscpp rospy message_generation
    FILES
    PolynomialSegment.msg
    PolynomialTrajectory.msg
+   CMDState.msg
+   CMDInput.msg
+   CMDStatus.msg
+   FeedbackGain.msg
  )
 
 ## Generate services in the 'srv' folder
