@@ -1,0 +1,2 @@
+
+CMDStatus[] status
