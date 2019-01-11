@@ -4,5 +4,5 @@ int32 iter
 float64 cost
 int32 exitFLag
 float64 t_total
-float64[] c 
-float64[] cinf
+float64[4] c 
+float64[4] cinf
